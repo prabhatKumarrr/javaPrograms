@@ -10,3 +10,6 @@
 9. To find Armstrong Number between two given number.
 10. Build a Working Calculator Program.
 11.  To find out whether the given Number is Palindrome or not.
+
+
+* Code for all programs are in respective src folder file
