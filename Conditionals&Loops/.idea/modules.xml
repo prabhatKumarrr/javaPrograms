@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Conditionals&amp;Loops.iml" filepath="$PROJECT_DIR$/.idea/Conditionals&amp;Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program01/Program01.iml" filepath="$PROJECT_DIR$/Program01/Program01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program02/Program02.iml" filepath="$PROJECT_DIR$/Program02/Program02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program03/Program03.iml" filepath="$PROJECT_DIR$/Program03/Program03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program04/Program04.iml" filepath="$PROJECT_DIR$/Program04/Program04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program05/Program05.iml" filepath="$PROJECT_DIR$/Program05/Program05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program06/Program06.iml" filepath="$PROJECT_DIR$/Program06/Program06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program07/Program07.iml" filepath="$PROJECT_DIR$/Program07/Program07.iml" />
+    </modules>
+  </component>
+</project>

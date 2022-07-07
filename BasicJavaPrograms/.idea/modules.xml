@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BasicJavaPrograms.iml" filepath="$PROJECT_DIR$/.idea/BasicJavaPrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program01/Program01.iml" filepath="$PROJECT_DIR$/Program01/Program01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program02/Program02.iml" filepath="$PROJECT_DIR$/Program02/Program02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program03/Program03.iml" filepath="$PROJECT_DIR$/Program03/Program03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program04/Program04.iml" filepath="$PROJECT_DIR$/Program04/Program04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program05/Program05.iml" filepath="$PROJECT_DIR$/Program05/Program05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program06/Program06.iml" filepath="$PROJECT_DIR$/Program06/Program06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program07/Program07.iml" filepath="$PROJECT_DIR$/Program07/Program07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program08/Program08.iml" filepath="$PROJECT_DIR$/Program08/Program08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program09/Program09.iml" filepath="$PROJECT_DIR$/Program09/Program09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program10/Program10.iml" filepath="$PROJECT_DIR$/Program10/Program10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program11/Program11.iml" filepath="$PROJECT_DIR$/Program11/Program11.iml" />
+    </modules>
+  </component>
+</project>
